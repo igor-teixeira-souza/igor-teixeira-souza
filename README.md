@@ -70,7 +70,7 @@ Website developed for cataloging and showcasing confectionery products, focused 
 
 <div>
 
-- LinkedIn: [This is an external link to LinkedIn](www.linkedin.com/in/igor-teixeira-souza)
+- LinkedIn: www.linkedin.com/in/igor-teixeira-souza
 - Email: teixeiraigor525@gmail.com
 
 </div>
